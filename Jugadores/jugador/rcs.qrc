@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagenes/conecta-4.png</file>
+        <file>imagenes/cuadroblanco.png</file>
+        <file>imagenes/fondo2.png</file>
+        <file>imagenes/J1.png</file>
+        <file>imagenes/J2.png</file>
+        <file>imagenes/vacio.png</file>
+        <file>imagenes/gano.jpg</file>
+        <file>imagenes/perdio.jpeg</file>
+    </qresource>
+</RCC>
